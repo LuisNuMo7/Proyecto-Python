@@ -1,4 +1,17 @@
 #!/usr/bin/python3
+'''
+*** INICIO DEL ENCABEZADO ***
+    Yoel Moya Carmona
+    carné: B75262
+    Luis Diego Nuñes
+    carné: B75473
+*** ESTRUCTURA GENERAL DEL CODIGO ***
+    Se implementa un menu amigable con el usuario mediante
+    la biblioteca tkinter y el paradigma de la programacion
+    orientada a objetos, utilizando un metodo constructor y
+    un metodo llamado create_widgets para generar el menu 
+    principal.
+'''
 import tkinter as tk
 
 
